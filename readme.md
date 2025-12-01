@@ -1,5 +1,6 @@
 # dsd_matlab — Practicum Files
-
+## Disclaimer ⚠️
+## THIS IS ONLY FOR EDUCATIONAL PURPOSES DO NOT MISUSE IN PRACTICAL EXAMINATION
 This repository contains all practicum files for the DSD MATLAB coursework. The collection includes MATLAB scripts, functions, example data files, and any supporting resources used during the practicum.
 
 ## Team
