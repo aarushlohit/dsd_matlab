@@ -12,7 +12,6 @@ This work was completed by teamwork:
 The repository is organized to provide reproducible examples and completed practicum exercises.
 
 ## License
-Specify a license for the project (e.g., MIT, GPL) or state "All rights reserved". If you'd like, I can add a recommended LICENSE file.
-
+MIT LICENSE FREE TO FORK AND USE
 ## Contact
 For questions about contents or to request changes, contact the repository maintainers (Johan Jibu Varghese, Lohit).
